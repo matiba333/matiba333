@@ -1,5 +1,16 @@
 ## Falaa prof👋
 
+# Meu Primeiro Repositório
+
+Este é um repositório básico.
+
+## Sobre mim
+- Estudande de Eng. de Software - Unifil
+- Diploma em T.i / Curso Técnico - Senac
+
+## Experiencia profissional
+- Vendedor de Consórcio
+- Atendente em Restaurante
 <!--
 **matiba333/matiba333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
